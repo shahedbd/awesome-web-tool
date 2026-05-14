@@ -2,13 +2,13 @@
 
 # 🧮 Basic Calculator Online
 
-### 40+ Free Online Calculators, Converters & Developer Tools
+### 50+ Free Online Calculators, Converters & Developer Tools
 **No signup. No download. 100% free — forever.**
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-basiccalculatoronline.com-blue?style=for-the-badge)](https://basiccalculatoronline.com/)
-[![All Tools](https://img.shields.io/badge/🛠️_All_Tools-42%2B_Available-green?style=for-the-badge)](https://basiccalculatoronline.com/all-tools)
+[![All Tools](https://img.shields.io/badge/🛠️_All_Tools-50%2B_Available-green?style=for-the-badge)](https://basiccalculatoronline.com/all-tools)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Last Updated](https://img.shields.io/badge/Updated-April_2026-orange?style=for-the-badge)]()
+[![Last Updated](https://img.shields.io/badge/Updated-May_2026-orange?style=for-the-badge)]()
 
 </div>
 
@@ -16,17 +16,19 @@
 
 ## 📌 Overview
 
-**Basic Calculator Online** is a fast, lightweight, and fully browser-based toolkit offering **42+ professional-grade calculators, converters, image tools, PDF utilities, and developer tools** — all accessible instantly without any login or installation.
+**Basic Calculator Online** is a fast, lightweight, and fully browser-based toolkit offering **50+ professional-grade calculators, converters, image tools, PDF utilities, and developer tools** — all accessible instantly without any login or installation.
 
-Whether you're a student calculating GPA, a developer generating UUIDs, a professional building invoices, or someone tracking health metrics — this platform has a tool for you.
+Whether you're a student calculating GPA, a developer generating UUIDs, a professional building invoices, a fitness enthusiast tracking macros, or someone tracking health metrics — this platform has a tool for you.
 
 > 🔗 **Live at:** [https://basiccalculatoronline.com](https://basiccalculatoronline.com)
+> 📋 **All Tools:** [https://basiccalculatoronline.com/all-tools](https://basiccalculatoronline.com/all-tools)
 
 ---
 
 ## 🗂️ Tool Categories
 
 ### 🔢 Basic Calculators
+
 | Tool | URL |
 |------|-----|
 | Scientific Calculator | [/scientific-calculator](https://basiccalculatoronline.com/scientific-calculator) |
@@ -41,6 +43,7 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 ---
 
 ### 💰 Financial Calculators
+
 | Tool | URL |
 |------|-----|
 | Loan / EMI / Mortgage Calculator | [/loan-emi-mortgage-calculator](https://basiccalculatoronline.com/loan-emi-mortgage-calculator) |
@@ -52,41 +55,58 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 ---
 
 ### 🏃 Health & Fitness Calculators
-| Tool | URL |
-|------|-----|
-| BMI Calculator | [/bmi-calculator](https://basiccalculatoronline.com/bmi-calculator) |
-| Age Calculator | [/age-calculator](https://basiccalculatoronline.com/age-calculator) |
-| Calorie Calculator | [/calorie-calculator](https://basiccalculatoronline.com/calorie-calculator) |
-| TDEE Calculator | [/tdee-calculator](https://basiccalculatoronline.com/tdee-calculator) |
-| Ovulation Calculator | [/ovulation-calculator](https://basiccalculatoronline.com/ovulation-calculator) |
-| Pregnancy Calculator | [/pregnancy-calculator](https://basiccalculatoronline.com/pregnancy-calculator) |
+
+3 new tools added in **May 2026** 🆕
+
+| Tool | URL | Status |
+|------|-----|--------|
+| BMI Calculator | [/bmi-calculator](https://basiccalculatoronline.com/bmi-calculator) | ✅ |
+| Age Calculator | [/age-calculator](https://basiccalculatoronline.com/age-calculator) | ✅ |
+| Calorie Calculator | [/calorie-calculator](https://basiccalculatoronline.com/calorie-calculator) | ✅ |
+| TDEE Calculator | [/tdee-calculator](https://basiccalculatoronline.com/tdee-calculator) | ✅ |
+| Ovulation Calculator | [/ovulation-calculator](https://basiccalculatoronline.com/ovulation-calculator) | ✅ |
+| Pregnancy Calculator | [/pregnancy-calculator](https://basiccalculatoronline.com/pregnancy-calculator) | ✅ |
+| Macro Calculator | [/macro-calculator](https://basiccalculatoronline.com/macro-calculator) | 🆕 New |
+| Ideal Weight Calculator | [/ideal-weight-calculator](https://basiccalculatoronline.com/ideal-weight-calculator) | 🆕 New |
+| Body Fat Calculator | [/body-fat-calculator](https://basiccalculatoronline.com/body-fat-calculator) | 🆕 New |
 
 ---
 
 ### 🔄 Converters
-| Tool | URL |
-|------|-----|
-| Unit Converter | [/unit-converter](https://basiccalculatoronline.com/unit-converter) |
-| Currency Converter | [/currency](https://basiccalculatoronline.com/currency) |
-| Case Converter | [/case-converter](https://basiccalculatoronline.com/case-converter) |
-| Number to Word | [/number-to-word](https://basiccalculatoronline.com/number-to-word) |
+
+3 new tools added in **May 2026** 🆕
+
+| Tool | URL | Status |
+|------|-----|--------|
+| Unit Converter | [/unit-converter](https://basiccalculatoronline.com/unit-converter) | ✅ |
+| Currency Converter | [/currency](https://basiccalculatoronline.com/currency) | ✅ |
+| Case Converter | [/case-converter](https://basiccalculatoronline.com/case-converter) | ✅ |
+| Number to Word | [/number-to-word](https://basiccalculatoronline.com/number-to-word) | ✅ |
+| Color Converter | [/color-converter](https://basiccalculatoronline.com/color-converter) | 🆕 New |
+| Number Base Converter | [/number-base-converter](https://basiccalculatoronline.com/number-base-converter) | 🆕 New |
+| Temperature Converter | [/temperature-converter](https://basiccalculatoronline.com/temperature-converter) | 🆕 New |
 
 ---
 
 ### 🖼️ Image & PDF Tools
-| Tool | URL |
-|------|-----|
-| Image Resizer | [/image-resizer](https://basiccalculatoronline.com/image-resizer) |
-| Image Compressor | [/image-compressor](https://basiccalculatoronline.com/image-compressor) |
-| Image to PDF | [/image-to-pdf](https://basiccalculatoronline.com/image-to-pdf) |
-| Image to Text (OCR) | [/image-to-text](https://basiccalculatoronline.com/image-to-text) |
-| Image Type Converter | [/image-type](https://basiccalculatoronline.com/image-type) |
-| Merge PDF | [/merge-pdf](https://basiccalculatoronline.com/merge-pdf) |
-| PDF to Word | [/pdf-to-word](https://basiccalculatoronline.com/pdf-to-word) |
+
+1 new tool added in **May 2026** 🆕
+
+| Tool | URL | Status |
+|------|-----|--------|
+| Image Resizer | [/image-resizer](https://basiccalculatoronline.com/image-resizer) | ✅ |
+| Image Compressor | [/image-compressor](https://basiccalculatoronline.com/image-compressor) | ✅ |
+| Image to PDF | [/image-to-pdf](https://basiccalculatoronline.com/image-to-pdf) | ✅ |
+| Image to Text (OCR) | [/image-to-text](https://basiccalculatoronline.com/image-to-text) | ✅ |
+| Image Type Converter | [/image-type](https://basiccalculatoronline.com/image-type) | ✅ |
+| Merge PDF | [/merge-pdf](https://basiccalculatoronline.com/merge-pdf) | ✅ |
+| PDF to Word | [/pdf-to-word](https://basiccalculatoronline.com/pdf-to-word) | ✅ |
+| Image Cropper | [/image-cropper](https://basiccalculatoronline.com/image-cropper) | 🆕 New |
 
 ---
 
 ### 👨‍💻 Developer Tools
+
 | Tool | URL |
 |------|-----|
 | JSON Formatter | [/json-formatter](https://basiccalculatoronline.com/json-formatter) |
@@ -99,6 +119,7 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 ---
 
 ### 📝 Resource & Text Tools
+
 | Tool | URL |
 |------|-----|
 | Invoice Generator | [/invoice](https://basiccalculatoronline.com/invoice) |
@@ -113,8 +134,9 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 - 🔒 **Privacy First** — No data is stored or transmitted to any server
 - 📱 **Fully Responsive** — Works seamlessly on mobile, tablet, and desktop
 - 🌍 **Currency Live Rates** — Real-time exchange rates updated daily
-- 🧩 **42+ Tools** — One platform for math, finance, health, dev, and more
+- 🧩 **50+ Tools** — One platform for math, finance, health, dev, and more
 - 🆓 **100% Free** — No paywalls, no subscriptions, no hidden costs
+- 🚀 **Actively Growing** — New tools added regularly (7 new tools in May 2026)
 
 ---
 
