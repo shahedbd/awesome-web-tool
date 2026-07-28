@@ -2,13 +2,13 @@
 
 # 🧮 Basic Calculator Online
 
-### 55+ Free Online Calculators, Converters & Developer Tools
+### 60+ Free Online Calculators, Converters & Developer Tools
 **No signup. No download. 100% free — forever.**
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-basiccalculatoronline.com-blue?style=for-the-badge)](https://basiccalculatoronline.com/)
-[![All Tools](https://img.shields.io/badge/🛠️_All_Tools-55%2B_Available-green?style=for-the-badge)](https://basiccalculatoronline.com/all-tools)
+[![All Tools](https://img.shields.io/badge/🛠️_All_Tools-60%2B_Available-green?style=for-the-badge)](https://basiccalculatoronline.com/all-tools)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Last Updated](https://img.shields.io/badge/Updated-May_2026-orange?style=for-the-badge)]()
+[![Last Updated](https://img.shields.io/badge/Updated-July_2026-orange?style=for-the-badge)]()
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 📌 Overview
 
-**Basic Calculator Online** is a fast, lightweight, and fully browser-based toolkit offering **55+ professional-grade calculators, converters, image tools, PDF utilities, developer tools, and fun utilities** — all accessible instantly without any login or installation.
+**Basic Calculator Online** is a fast, lightweight, and fully browser-based toolkit offering **60+ professional-grade calculators, converters, image tools, PDF utilities, developer tools, and fun utilities** — all accessible instantly without any login or installation.
 
 Whether you're a student calculating GPA, a developer generating UUIDs, a professional building invoices, a fitness enthusiast tracking macros, or just looking for a fun screen tool — this platform has something for everyone.
 
@@ -27,10 +27,11 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 
 ## 🗂️ Tool Categories
 
-### 🔢 Basic Calculators
+### 🔢 Basic & Math Calculators
 
 | Tool | URL |
 |------|-----|
+| Basic Calculator | [/](https://basiccalculatoronline.com/) |
 | Scientific Calculator | [/scientific-calculator](https://basiccalculatoronline.com/scientific-calculator) |
 | Percentage Calculator | [/percentage-calculator](https://basiccalculatoronline.com/percentage-calculator) |
 | Fraction Calculator | [/fraction-calculator](https://basiccalculatoronline.com/fraction-calculator) |
@@ -51,6 +52,9 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 | Compound Interest Calculator | [/compound-interest-calculator](https://basiccalculatoronline.com/compound-interest-calculator) |
 | Investment Calculator | [/investment-calculator](https://basiccalculatoronline.com/investment-calculator) |
 | Retirement Calculator | [/retirement-calculator](https://basiccalculatoronline.com/retirement-calculator) |
+| Tax Calculator | [/tax-calculator](https://basiccalculatoronline.com/tax-calculator) |
+| Salary Calculator | [/salary-calculator](https://basiccalculatoronline.com/salary-calculator) |
+| Tip Calculator | [/tip-calculator](https://basiccalculatoronline.com/tip-calculator) |
 
 ---
 
@@ -62,6 +66,7 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 | Age Calculator | [/age-calculator](https://basiccalculatoronline.com/age-calculator) | ✅ |
 | Calorie Calculator | [/calorie-calculator](https://basiccalculatoronline.com/calorie-calculator) | ✅ |
 | TDEE Calculator | [/tdee-calculator](https://basiccalculatoronline.com/tdee-calculator) | ✅ |
+| Sleep Calculator | [/sleep-calculator](https://basiccalculatoronline.com/sleep-calculator) | ✅ |
 | Ovulation Calculator | [/ovulation-calculator](https://basiccalculatoronline.com/ovulation-calculator) | ✅ |
 | Pregnancy Calculator | [/pregnancy-calculator](https://basiccalculatoronline.com/pregnancy-calculator) | ✅ |
 | Macro Calculator | [/macro-calculator](https://basiccalculatoronline.com/macro-calculator) | ✅ |
@@ -76,11 +81,11 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 |------|-----|--------|
 | Unit Converter | [/unit-converter](https://basiccalculatoronline.com/unit-converter) | ✅ |
 | Currency Converter | [/currency](https://basiccalculatoronline.com/currency) | ✅ |
+| Temperature Converter | [/temperature-converter](https://basiccalculatoronline.com/temperature-converter) | ✅ |
 | Case Converter | [/case-converter](https://basiccalculatoronline.com/case-converter) | ✅ |
 | Number to Word | [/number-to-word](https://basiccalculatoronline.com/number-to-word) | ✅ |
 | Color Converter | [/color-converter](https://basiccalculatoronline.com/color-converter) | ✅ |
 | Number Base Converter | [/number-base-converter](https://basiccalculatoronline.com/number-base-converter) | ✅ |
-| Temperature Converter | [/temperature-converter](https://basiccalculatoronline.com/temperature-converter) | ✅ |
 
 ---
 
@@ -90,26 +95,29 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 |------|-----|--------|
 | Image Resizer | [/image-resizer](https://basiccalculatoronline.com/image-resizer) | ✅ |
 | Image Compressor | [/image-compressor](https://basiccalculatoronline.com/image-compressor) | ✅ |
+| Image Cropper | [/image-cropper](https://basiccalculatoronline.com/image-cropper) | ✅ |
+| Image Type Converter | [/image-type](https://basiccalculatoronline.com/image-type) | ✅ |
 | Image to PDF | [/image-to-pdf](https://basiccalculatoronline.com/image-to-pdf) | ✅ |
 | Image to Text (OCR) | [/image-to-text](https://basiccalculatoronline.com/image-to-text) | ✅ |
-| Image Type Converter | [/image-type](https://basiccalculatoronline.com/image-type) | ✅ |
-| Merge PDF | [/merge-pdf](https://basiccalculatoronline.com/merge-pdf) | ✅ |
-| PDF to Word | [/pdf-to-word](https://basiccalculatoronline.com/pdf-to-word) | ✅ |
-| Image Cropper | [/image-cropper](https://basiccalculatoronline.com/image-cropper) | ✅ |
 | Background Remover | [/background-remover](https://basiccalculatoronline.com/background-remover) | 🆕 New |
+| Merge PDF | [/merge-pdf](https://basiccalculatoronline.com/merge-pdf) | ✅ |
+| Compress PDF | [/compress-pdf](https://basiccalculatoronline.com/compress-pdf) | ✅ |
+| PDF to Word | [/pdf-to-word](https://basiccalculatoronline.com/pdf-to-word) | ✅ |
 
 ---
 
 ### 👨‍💻 Developer Tools
 
-| Tool | URL |
-|------|-----|
-| JSON Formatter | [/json-formatter](https://basiccalculatoronline.com/json-formatter) |
-| QR Code Generator | [/qr-code-generator](https://basiccalculatoronline.com/qr-code-generator) |
-| Password Generator | [/password-generator](https://basiccalculatoronline.com/password-generator) |
-| UUID Generator | [/uuid-generator](https://basiccalculatoronline.com/uuid-generator) |
-| Base64 Encoder | [/base64-encoder](https://basiccalculatoronline.com/base64-encoder) |
-| Hash Generator | [/hash-generator](https://basiccalculatoronline.com/hash-generator) |
+| Tool | URL | Status |
+|------|-----|--------|
+| JSON Formatter | [/json-formatter](https://basiccalculatoronline.com/json-formatter) | ✅ |
+| QR Code Generator | [/qr-code-generator](https://basiccalculatoronline.com/qr-code-generator) | ✅ |
+| Password Generator | [/password-generator](https://basiccalculatoronline.com/password-generator) | ✅ |
+| UUID Generator | [/uuid-generator](https://basiccalculatoronline.com/uuid-generator) | ✅ |
+| Base64 Encoder | [/base64-encoder](https://basiccalculatoronline.com/base64-encoder) | ✅ |
+| Hash Generator | [/hash-generator](https://basiccalculatoronline.com/hash-generator) | ✅ |
+| Random Number Generator | [/random-number-generator](https://basiccalculatoronline.com/random-number-generator) | ✅ |
+| Number Base Converter | [/number-base-converter](https://basiccalculatoronline.com/number-base-converter) | ✅ |
 
 ---
 
@@ -125,7 +133,7 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 
 ### 🎉 Fun & Utility Tools
 
-*Brand new category added May 2026 — lightweight tools for everyday quirky needs.*
+*Lightweight tools for everyday quirky needs.*
 
 | Tool | URL | Status |
 |------|-----|--------|
@@ -139,10 +147,28 @@ Whether you're a student calculating GPA, a developer generating UUIDs, a profes
 - ⚡ **Instant Access** — All tools load in the browser with zero friction
 - 🔒 **Privacy First** — No data is stored or transmitted to any server
 - 📱 **Fully Responsive** — Works seamlessly on mobile, tablet, and desktop
-- 🌍 **Currency Live Rates** — Real-time exchange rates updated daily
-- 🧩 **55+ Tools** — One platform for math, finance, health, dev, and more
+- 🌍 **Currency Live Rates** — Real-time exchange rates updated hourly for 150+ currencies
+- 🧩 **60+ Tools** — One platform for math, finance, health, dev, and more
 - 🆓 **100% Free** — No paywalls, no subscriptions, no hidden costs
-- 🚀 **Actively Growing** — New tools added regularly (3 new tools in May 2026)
+- ⌨️ **Keyboard Support** — Full keyboard and numpad support for faster input
+- 🚀 **Actively Growing** — New tools added regularly
+
+---
+
+## 📖 Blog
+
+Educational articles and guides published at [basiccalculatoronline.com/blog](https://basiccalculatoronline.com/blog):
+
+| Article | URL |
+|---------|-----|
+| How to Calculate Percentage — Complete Guide | [/blog/how-to-calculate-percentage-complete-guide](https://basiccalculatoronline.com/blog/how-to-calculate-percentage-complete-guide) |
+| Best Free Calculators for Students 2025 | [/blog/best-free-calculators-for-students-2025](https://basiccalculatoronline.com/blog/best-free-calculators-for-students-2025) |
+| How to Calculate BMI — Formula & Chart | [/blog/how-to-calculate-bmi-formula-chart](https://basiccalculatoronline.com/blog/how-to-calculate-bmi-formula-chart) |
+| How to Calculate Age from Date of Birth | [/blog/how-to-calculate-age-from-date-of-birth](https://basiccalculatoronline.com/blog/how-to-calculate-age-from-date-of-birth) |
+| How to Calculate Loan EMI — Formula | [/blog/how-to-calculate-loan-emi-formula](https://basiccalculatoronline.com/blog/how-to-calculate-loan-emi-formula) |
+| GPA Calculator — How to Calculate GPA | [/blog/gpa-calculator-how-to-calculate-gpa](https://basiccalculatoronline.com/blog/gpa-calculator-how-to-calculate-gpa) |
+| Unit Conversion Guide — Complete Reference | [/blog/unit-conversion-guide-complete-reference](https://basiccalculatoronline.com/blog/unit-conversion-guide-complete-reference) |
+| JSON Formatter Guide — Validate & Beautify | [/blog/json-formatter-guide-validate-beautify](https://basiccalculatoronline.com/blog/json-formatter-guide-validate-beautify) |
 
 ---
 
